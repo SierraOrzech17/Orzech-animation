@@ -2,4 +2,4 @@ this is my test file
 
 Sierra Orzech
 
-i am practicing adding files with Git and GitHub
+i am practicing editing files with Git and GitHub
