@@ -1,5 +1,3 @@
 this is my test file
 
 Sierra Orzech
-
-i am practicing editing files with Git and GitHub
